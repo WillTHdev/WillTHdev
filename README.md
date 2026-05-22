@@ -12,8 +12,8 @@
 💼 Busco sempre escrever código limpo, seguro e de fácil manutenção.
 
 <h3>🚀 Tecnologias & Ferramentas
-  <img width="150" height="1052" alt="Js-logo" src="https://github.com/user-attachments/assets/9963bc3c-ce2b-4cc0-a845-9e9a64da6043" />
-  <img width="150" height="1200" alt="Java-logo" src="https://github.com/user-attachments/assets/b06151eb-aeb8-492c-911c-fccadb27a921" />
-  <img width="150" height="225" alt="Python-logo" src="https://github.com/user-attachments/assets/993dd430-e227-4443-ab4a-bc3d355f04bd" />
-  <img width="150" height="294" alt="React-logo" src="https://github.com/user-attachments/assets/44c6ee4d-850d-4e1d-a3db-c3633e4e3adf" />
+  <img width="100" height="100" alt="Js-logo" src="https://github.com/user-attachments/assets/9963bc3c-ce2b-4cc0-a845-9e9a64da6043" />
+  <img width="100" height="100" alt="Java-logo" src="https://github.com/user-attachments/assets/b06151eb-aeb8-492c-911c-fccadb27a921" />
+  <img width="100" height="100" alt="Python-logo" src="https://github.com/user-attachments/assets/993dd430-e227-4443-ab4a-bc3d355f04bd" />
+  <img width="100" height="100" alt="React-logo" src="https://github.com/user-attachments/assets/44c6ee4d-850d-4e1d-a3db-c3633e4e3adf" />
 </h3>
