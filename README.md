@@ -6,10 +6,21 @@
   🧑‍💻 Sobre mim.
 </h3>
 
-💡 Comecei minha jornada de forma autodidata e venho me aprofundando diariamente no universo do desenvolvimento.
-🔥 Tenho foco em solução de problemas.
-🧠 Atualmente estudando com profundidade Java, python, SQL, com interesse constante por novas tecnologias e boas práticas.
-💼 Busco sempre escrever código limpo, seguro e de fácil manutenção.
+<p>
+  💡 Comecei minha jornada de forma autodidata e venho me aprofundando diariamente no universo do desenvolvimento.
+</p>
+
+<p>
+  🔥 Tenho foco em solução de problemas.
+</p>
+
+<p>
+  🧠 Atualmente estudando com profundidade Java, python, SQL, com interesse constante por novas tecnologias e boas práticas.
+</p>
+
+<p>
+  💼 Busco sempre escrever código limpo, seguro e de fácil manutenção.
+</p>
 
 <h3>
   🚀 Tecnologias & Ferramentas.
