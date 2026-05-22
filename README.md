@@ -3,7 +3,7 @@
 *Desenvolvedor autodidata apaixonado por tecnologia, movido por desafios e pela vontade constante de aprender e construir soluções que fazem a diferença.*
 
 <h3>
-  🧑‍💻 Sobre mim
+  🧑‍💻 Sobre mim.
 </h3>
 
 💡 Comecei minha jornada de forma autodidata e venho me aprofundando diariamente no universo do desenvolvimento.
@@ -11,9 +11,12 @@
 🧠 Atualmente estudando com profundidade Java, python, SQL, com interesse constante por novas tecnologias e boas práticas.
 💼 Busco sempre escrever código limpo, seguro e de fácil manutenção.
 
-<h3>🚀 Tecnologias & Ferramentas
-  <img width="100" height="100" alt="Js-logo" src="https://github.com/user-attachments/assets/9963bc3c-ce2b-4cc0-a845-9e9a64da6043" />
-  <img width="100" height="100" alt="Java-logo" src="https://github.com/user-attachments/assets/b06151eb-aeb8-492c-911c-fccadb27a921" />
-  <img width="100" height="100" alt="Python-logo" src="https://github.com/user-attachments/assets/993dd430-e227-4443-ab4a-bc3d355f04bd" />
-  <img width="100" height="100" alt="React-logo" src="https://github.com/user-attachments/assets/44c6ee4d-850d-4e1d-a3db-c3633e4e3adf" />
+<h3>
+  🚀 Tecnologias & Ferramentas.
+</h3>
+<h3>
+  <img width="80" height="80" alt="Js-logo" src="https://github.com/user-attachments/assets/9963bc3c-ce2b-4cc0-a845-9e9a64da6043" />
+  <img width="80" height="80" alt="Java-logo" src="https://github.com/user-attachments/assets/b06151eb-aeb8-492c-911c-fccadb27a921" />
+  <img width="80" height="80" alt="Python-logo" src="https://github.com/user-attachments/assets/993dd430-e227-4443-ab4a-bc3d355f04bd" />
+  <img width="80" height="80" alt="React-logo" src="https://github.com/user-attachments/assets/44c6ee4d-850d-4e1d-a3db-c3633e4e3adf" />
 </h3>
